@@ -1,1 +1,2 @@
-alert("yo!");
+//alert("yo!");
+console.log("This is better");
